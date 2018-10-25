@@ -1,5 +1,5 @@
 # dials_refinement_brewster2018
-Scripts and documentation for Brewster et. al. 2018 (in press).
+Scripts and documentation for Brewster et. al. 2018.
 
 This repository contains
 
